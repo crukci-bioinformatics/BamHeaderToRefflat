@@ -64,11 +64,7 @@ The coverage traces generated are not as smooth as we normally expect as the two
 example bam files have been downsampled to just 1.5-1.8 million reads, so that
 they are small enough to include in the repository. 
 
-
-
-
-
-
+## References
 
 Patro, R., Duggal, G., Love, M. I., Irizarry, R. A., & Kingsford, C. (2017).
 Salmon provides fast and bias-aware quantification of transcript expression.
