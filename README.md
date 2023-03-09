@@ -50,15 +50,11 @@ CoveragePlots.R
 This should generate the file "images/Coverage_plots.png" with the following
 plot:
 
-[](images/Coverage_plots.png)
+![](images/Coverage_plots.png)
 
 The coverage traces generated are not a smooth as we normally expect as the two 
 example bam files have been downsampled to just 1.5-1.8 million reads, so that
-they are small enough to include in the repository. The plot below shows the 
-results of the same analysis, but this time using the full data set from which 
-the example bams were derived.
-
-[](images/Coverage_plots.full_data.png)
+they are small enough to include in the repository. 
 
 
 
