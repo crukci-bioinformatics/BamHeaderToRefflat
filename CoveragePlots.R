@@ -21,5 +21,5 @@ salm <- list.files(pattern = ".*RNAseq_metrics.*") %>%
 salm %>% 
     ggplot(aes(x = Position, y = Coverage, group = Sample)) +
         geom_line(aes(colour = Sample))
-ggsave("images/Coverage_plots.png", width=8.80, height=9.40)
+ggsave("images/Coverage_plots.png", width=8.80, height=5)
 
