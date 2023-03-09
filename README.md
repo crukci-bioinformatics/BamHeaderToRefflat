@@ -9,6 +9,12 @@ file can then be used in conjunction with the Picard tool
 [CollectRnaSeqMetricx](https://broadinstitute.github.io/picard/command-line-overview.html#CollectRnaSeqMetrics)
 in order to gather data required to a plot a normalised gene body coverage plot.
 
+## Prerequisites
+
+You will need
+[Python](https://github.com/crukci-bioinformatics/BamHeaderToRefflat) and
+[samtools](http://www.htslib.org/) installed and on the PATH.
+
 ## Usage
 
 ```
