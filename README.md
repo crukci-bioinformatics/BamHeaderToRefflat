@@ -52,7 +52,7 @@ plot:
 
 ![](images/Coverage_plots.png)
 
-The coverage traces generated are not a smooth as we normally expect as the two 
+The coverage traces generated are not as smooth as we normally expect as the two
 example bam files have been downsampled to just 1.5-1.8 million reads, so that
 they are small enough to include in the repository. 
 
